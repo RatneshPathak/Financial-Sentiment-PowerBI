@@ -77,3 +77,19 @@ Financial-Sentiment-PowerBI/
 ---
 
 *Developed to explore financial news sentiment through data analytics and interactive business intelligence.*
+
+## Copyright and Usage
+
+Copyright (c) 2026 Ratnesh Pathak. All rights reserved.
+
+This project is publicly available for portfolio viewing and
+evaluation. Reuse, modification, redistribution, or commercial
+use of the original project materials requires prior written
+permission, except where applicable law or third-party terms
+provide otherwise.
+
+Third-party materials and datasets remain subject to their
+respective owners' licenses and terms.
+
+For permission requests, contact the author through
+[GitHub](https://github.com/RatneshPathak).
